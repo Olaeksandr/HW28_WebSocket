@@ -1,0 +1,15 @@
+body {
+    height: 400px;
+    position: relative;
+}
+#listMessages {
+    height: 80%;
+    position:absolute;
+    top: 0;
+}
+#inputData {
+    height: 20%;
+    position:absolute;
+    bottom: 0;
+
+}
